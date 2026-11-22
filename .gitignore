@@ -1,0 +1,26 @@
+# --- Fuera del repo: no es mi parte / documentos ---
+/ cars/
+/proyecto ciberseguridad /
+*.docx
+*.pdf
+~$*
+
+# --- Secretos (llaves privadas del stub JWT; regenerables) ---
+paddock-server/keys/private.pem
+paddock-server/keys/private.json
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+.venv/
+
+# --- Xcode ---
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+# --- macOS ---
+.DS_Store

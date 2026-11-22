@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS256",
+      "kid": "paddock-local-key-1",
+      "n": "ytVKMB6cnhb-z7hE-x9ZIvEXrQYpLRhuGNmG4X8SK-IptgqICTTEIcRoYFldayQ9aVSOoJHCOCO9_Ea7EKzgr6jNx-PLL8cPlp9TJPouNqj4yATqCPWiMHuOsESVtIGQjYVdlQy76p9OkS0pErhDMI1nMwSALmNJqWktyZM7sdYdQFx3Z0FRMUrEAXt7bIBcs_Cv4fwbltVCJiId3wBcYjVCrmC2Y9XWVQW2D0boT_FnM-5qJxAUq-4kutqVSvw5RmVcz0urbYJJrc2Is-8EK9YfCEeB1jyR5M2m2Ysa4soq0TzVU1_Ib5-p7KJh9uZSU2TrknevMBWNmDhckc_Szw",
+      "e": "AQAB"
+    }
+  ]
+}
